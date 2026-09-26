@@ -89,7 +89,7 @@ GSBrowse is built around three ideas:
 | --- | --- |
 | Product | **For Sale** |
 | Public website | Not currently live |
-| Development | Ongoing |
+| Development | Paused / For sale |
 | Source code | Private |
 
 ## Acquisition
