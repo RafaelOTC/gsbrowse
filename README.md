@@ -108,6 +108,16 @@ The public showcase describes the product at a high level; source code and priva
 
 ---
 
+## Commercial / proprietary project
+
+GSBrowse is a **commercial proprietary software project** and is currently **available for sale**.
+
+Its production source code and implementation are intentionally private to protect the product's intellectual property, commercial value, security-sensitive infrastructure and acquisition value.
+
+This public repository is a **product and technical showcase**, not an open-source distribution. It documents what the product is, the problem it solves and its main capabilities without publishing the private codebase.
+
+For serious acquisition inquiries: **https://trifarafael.com/contact**
+
 ## Creator & socials
 
 **Trifa Rafael** — Web Developer & Digital Product Builder
@@ -122,7 +132,7 @@ The public showcase describes the product at a high level; source code and priva
 
 This is the **public showcase repository for GSBrowse**.
 
-The production application source code, private infrastructure, credentials and sensitive implementation details are not published here.
+The production application source code, private infrastructure, credentials and sensitive implementation details are intentionally not published here because the product is proprietary.
 
 <div align="center">
 
