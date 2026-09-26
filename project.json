@@ -1,14 +1,22 @@
 {
   "name": "GSBrowse",
-  "status": "Active",
+  "status": "For Sale",
   "type": "SaaS / Gaming",
   "creator": {
     "name": "Trifa Rafael",
     "website": "https://trifarafael.com",
-    "github": "https://github.com/RafaelOTC"
+    "github": "https://github.com/RafaelOTC",
+    "socials": {
+      "instagram": "https://www.instagram.com/trifa.rafael/",
+      "facebook": "https://www.facebook.com/profile.php?id=100077873351820",
+      "linkedin": "https://www.linkedin.com/in/rafael-trifa-0319353a9/",
+      "github": "https://github.com/RafaelOTC"
+    }
   },
-  "product_url": "https://gsbrowse.com/",
+  "product_url": null,
   "portfolio_url": "https://trifarafael.com/projects/gsbrowse",
   "source_code_public": false,
-  "summary": "Game server discovery and monitoring platform with live statistics, rankings, dynamic banners and community features."
+  "summary": "Game server discovery and monitoring platform with live statistics, rankings, dynamic banners and community features. The project is currently available for sale and has no live public product URL.",
+  "available_for_sale": true,
+  "acquisition_contact": "https://trifarafael.com/contact"
 }
