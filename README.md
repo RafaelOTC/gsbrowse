@@ -4,8 +4,7 @@
 
 ### Modern game-server discovery, monitoring and visibility
 
-[![Status](https://img.shields.io/badge/status-Active-22c55e?style=for-the-badge)](https://gsbrowse.com/)
-[![Product](https://img.shields.io/badge/live-gsbrowse.com-f97316?style=for-the-badge)](https://gsbrowse.com/)
+![Status](https://img.shields.io/badge/status-For%20Sale-f59e0b?style=for-the-badge)
 [![Portfolio](https://img.shields.io/badge/portfolio-Trifa%20Rafael-111827?style=for-the-badge)](https://trifarafael.com/projects/gsbrowse)
 
 **Built by [Trifa Rafael](https://trifarafael.com)**
@@ -88,19 +87,36 @@ GSBrowse is built around three ideas:
 
 | Item | Status |
 | --- | --- |
-| Product | **Active** |
-| Public website | Live |
+| Product | **For Sale** |
+| Public website | Not currently live |
 | Development | Ongoing |
 | Source code | Private |
 
+## Acquisition
+
+GSBrowse is currently **available for sale**.
+
+The public showcase describes the product at a high level; source code and private technical details remain confidential. Serious acquisition inquiries can be made through:
+
+**https://trifarafael.com/contact**
+
 ## Public presence
 
-- **Live product:** https://gsbrowse.com/
 - **Portfolio:** https://trifarafael.com/projects/gsbrowse
 - **Creator:** https://trifarafael.com
 - **GitHub:** https://github.com/RafaelOTC
 
 ---
+
+## Creator & socials
+
+**Trifa Rafael** — Web Developer & Digital Product Builder
+
+- Website: https://trifarafael.com
+- Instagram: https://www.instagram.com/trifa.rafael/
+- Facebook: https://www.facebook.com/profile.php?id=100077873351820
+- LinkedIn: https://www.linkedin.com/in/rafael-trifa-0319353a9/
+- GitHub: https://github.com/RafaelOTC
 
 ## Repository notice
 
