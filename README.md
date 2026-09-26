@@ -1,47 +1,115 @@
+<div align="center">
+
 # GSBrowse
 
-**Status:** Active  
-**Product:** https://gsbrowse.com/  
-**Portfolio:** https://trifarafael.com/projects/gsbrowse  
-**Creator / Developer:** [Trifa Rafael](https://trifarafael.com)
+### Modern game-server discovery, monitoring and visibility
 
-GSBrowse is a modern game server discovery and monitoring platform built for players, server owners and gaming communities.
+[![Status](https://img.shields.io/badge/status-Active-22c55e?style=for-the-badge)](https://gsbrowse.com/)
+[![Product](https://img.shields.io/badge/live-gsbrowse.com-f97316?style=for-the-badge)](https://gsbrowse.com/)
+[![Portfolio](https://img.shields.io/badge/portfolio-Trifa%20Rafael-111827?style=for-the-badge)](https://trifarafael.com/projects/gsbrowse)
 
-It is designed as a modern alternative to older server-listing websites, with a stronger focus on useful live information, performance, transparency and a better experience for both players and server operators.
+**Built by [Trifa Rafael](https://trifarafael.com)**
 
-## What GSBrowse does
-
-Core capabilities include:
-
-- discovering active game servers
-- live server statistics and monitoring
-- rankings
-- dynamic server banners
-- visibility tools for server owners
-- partner community integrations
-- support for game communities such as:
-  - Counter-Strike 2
-  - Counter-Strike 1.6
-  - FiveM
-  - SA:MP
-  - and other multiplayer communities
-
-## Product direction
-
-GSBrowse aims to make finding and evaluating game servers faster and clearer while also giving server owners better tools for visibility and community growth.
-
-## Public links
-
-- Product: https://gsbrowse.com/
-- Portfolio page: https://trifarafael.com/projects/gsbrowse
-- Creator: https://trifarafael.com
-- GitHub profile: https://github.com/RafaelOTC
+</div>
 
 ---
 
-### About this repository
+## Overview
 
-This is a **public showcase repository** for GSBrowse.  
-The production source code, infrastructure configuration, secrets and private implementation details are **not published here**.
+**GSBrowse** is a modern game-server browser built for players, server owners and gaming communities.
 
-© Trifa Rafael
+The platform focuses on making multiplayer servers easier to discover, compare and monitor while giving server operators a cleaner way to gain visibility.
+
+It is designed as a modern alternative to older server-listing directories.
+
+## What problem it solves
+
+Traditional server lists often feel dated, noisy and difficult to evaluate.
+
+GSBrowse is built around a clearer loop:
+
+**discover → inspect → compare → join → monitor**
+
+For server owners, the other side of that loop is:
+
+**list → present → grow → monitor → build community**
+
+## Core capabilities
+
+### Server discovery
+- browse active game servers
+- search and filter server listings
+- discover communities across multiple games
+- quickly understand server activity
+
+### Live monitoring
+- live server statistics
+- server availability/status
+- player and activity information
+- data designed to help players decide where to join
+
+### Rankings & visibility
+- ranking systems
+- server-owner visibility tools
+- discoverability for growing communities
+- structured presentation instead of simple raw listings
+
+### Dynamic banners
+- shareable server banners
+- live/statistical presentation
+- useful for community websites and promotional placements
+
+### Community layer
+- partner communities
+- stronger connection between server discovery and community discovery
+- tools aimed at both players and operators
+
+## Supported gaming direction
+
+GSBrowse is designed around communities such as:
+
+- **Counter-Strike 2**
+- **Counter-Strike 1.6**
+- **FiveM**
+- **SA:MP**
+- other multiplayer/server-based ecosystems
+
+The platform is not limited conceptually to a single game.
+
+## Product philosophy
+
+GSBrowse is built around three ideas:
+
+1. **Useful live information** instead of stale directory entries.
+2. **Better discovery** for players.
+3. **Better visibility** for server owners and gaming communities.
+
+## Current status
+
+| Item | Status |
+| --- | --- |
+| Product | **Active** |
+| Public website | Live |
+| Development | Ongoing |
+| Source code | Private |
+
+## Public presence
+
+- **Live product:** https://gsbrowse.com/
+- **Portfolio:** https://trifarafael.com/projects/gsbrowse
+- **Creator:** https://trifarafael.com
+- **GitHub:** https://github.com/RafaelOTC
+
+---
+
+## Repository notice
+
+This is the **public showcase repository for GSBrowse**.
+
+The production application source code, private infrastructure, credentials and sensitive implementation details are not published here.
+
+<div align="center">
+
+**GSBrowse — built by [Trifa Rafael](https://trifarafael.com)**
+
+</div>
