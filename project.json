@@ -1,0 +1,14 @@
+{
+  "name": "GSBrowse",
+  "status": "Active",
+  "type": "SaaS / Gaming",
+  "creator": {
+    "name": "Trifa Rafael",
+    "website": "https://trifarafael.com",
+    "github": "https://github.com/RafaelOTC"
+  },
+  "product_url": "https://gsbrowse.com/",
+  "portfolio_url": "https://trifarafael.com/projects/gsbrowse",
+  "source_code_public": false,
+  "summary": "Game server discovery and monitoring platform with live statistics, rankings, dynamic banners and community features."
+}
